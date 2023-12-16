@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290964045970",
+    "project_id": "kullaniciuygulamasi",
+    "storage_bucket": "kullaniciuygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290964045970:android:22316af6a55e6a26cfa64b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseproje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290964045970-5ahj4fhcqkldhpv2jdlfnn9m290n8s3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzrLEfXpH6Pqcco3jCjWz6awTrCJBz8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290964045970-5ahj4fhcqkldhpv2jdlfnn9m290n8s3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
